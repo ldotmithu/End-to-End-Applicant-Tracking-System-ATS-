@@ -1,6 +1,6 @@
 # 📄 Resume ATS Checker
 
-The **Resume ATS Checker** is a web application built using Streamlit that allows users to compare their resumes with job descriptions and get insights on how well their resume matches the job criteria. The application uses a language model to evaluate the resume's compatibility with the provided job description, offering a detailed match score, missing keywords, and a profile summary.
+The **Resume ATS Checker** is a web application built using Streamlit that allows users to compare their resumes with job descriptions and get insights on how well their resume matches the job criteria. The application uses a language model to evaluate the resume's compatibility with the provided job description, offering a detailed match score, missing keywords, and a suggestions.
 
 ## ✨ Features
 - **Job Description and Resume Analysis**: Compare a resume against a provided job description. 📝
